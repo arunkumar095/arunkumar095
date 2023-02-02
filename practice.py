@@ -1,3 +1,3 @@
-from scipy import constants
+from SciPy import constants
 
 constants.inch
